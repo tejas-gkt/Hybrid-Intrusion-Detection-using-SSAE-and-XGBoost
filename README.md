@@ -1,0 +1,2 @@
+# Hybrid-Intrusion-Detection-using-SSAE-and-XGBoost
+Intrusion Detection Systems to improve the security of modern networks. IDS plays role in identifying malicious activities, and potential cyber-attacks. Machine learning and deep learning models are implemented for accurate classification of traffic. Approach enhances detection accuracy, reduces false alarms to ensures fast response to cyberthreats
